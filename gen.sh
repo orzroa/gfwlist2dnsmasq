@@ -1,0 +1,2 @@
+#!/bin/bash
+./gfwlist2dnsmasq.sh -d 127.0.0.1 -p 5353 -s gfwlist -o dnsmasq_gfwlist_ipset.conf -i
