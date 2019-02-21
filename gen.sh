@@ -6,6 +6,12 @@ git pull --rebase
 grep '^server='       dnsmasq_gfwlist_ipset.conf > dnsmasq_gfwlist_server.conf
 sed -i '/^server=/d' dnsmasq_gfwlist_ipset.conf
 cat *.conf|md5sum|cut -d' ' -f1>conf.md5
+
+for emm in `ls *.conf`
+do
+    md5sum $emm|cut -d' ' -f1>$emm.md5
+done
+
 git commit -am "auto updated conf file on `date`"
 git push
 
