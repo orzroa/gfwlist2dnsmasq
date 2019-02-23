@@ -5,5 +5,6 @@ github.com
 openwrt.org
 oracle.com
 raspberrypi.org
+sourceforge.net
 steemit.com
 
