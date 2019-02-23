@@ -2,9 +2,9 @@ adobe.com
 at-elise.com
 cloudfunctions.net
 github.com
+jetbrains.com
 openwrt.org
 oracle.com
 raspberrypi.org
-sourceforge.net
 steemit.com
 
