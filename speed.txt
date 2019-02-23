@@ -3,6 +3,7 @@ at-elise.com
 cloudfunctions.net
 github.com
 jetbrains.com
+mysql.com
 openwrt.org
 oracle.com
 raspberrypi.org
