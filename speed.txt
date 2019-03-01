@@ -6,6 +6,7 @@ jetbrains.com
 mysql.com
 openwrt.org
 oracle.com
+pythonhosted.org
 raspberrypi.org
 steemit.com
 workflowy.com
