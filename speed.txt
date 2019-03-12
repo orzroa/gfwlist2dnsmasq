@@ -5,6 +5,7 @@ cloudfunctions.net
 github.com
 jetbrains.com
 mysql.com
+nginx.org
 openwrt.org
 oracle.com
 pythonhosted.org
