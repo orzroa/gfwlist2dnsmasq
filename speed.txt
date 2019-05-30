@@ -4,6 +4,8 @@ apache.org
 at-elise.com
 cloudfunctions.net
 github.com
+gnome.org
+gnome-look.org
 jetbrains.com
 mysql.com
 nginx.org
