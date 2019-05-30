@@ -9,6 +9,7 @@ gnome-look.org
 jetbrains.com
 mysql.com
 nginx.org
+opendesktop.org
 openwrt.org
 oracle.com
 pythonhosted.org
