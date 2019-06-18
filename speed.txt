@@ -2,6 +2,7 @@ adobe.com
 alpinelinux.org
 apache.org
 at-elise.com
+dbeaver.io
 cloudfunctions.net
 h1.ioliu.cn
 github.com
