@@ -9,6 +9,7 @@ github.com
 gnome.org
 gnome-look.org
 jetbrains.com
+jsfiddle.net
 mysql.com
 nginx.org
 opendesktop.org
