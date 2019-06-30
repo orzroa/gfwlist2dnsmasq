@@ -4,6 +4,7 @@ apache.org
 at-elise.com
 dbeaver.io
 cloudfunctions.net
+codeforces.com
 h1.ioliu.cn
 github.com
 gnome.org
