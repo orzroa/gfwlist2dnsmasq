@@ -16,6 +16,7 @@ nginx.org
 opendesktop.org
 openwrt.org
 oracle.com
+pximg.net
 pythonhosted.org
 raspberrypi.org
 steemit.com
