@@ -20,5 +20,6 @@ pixiv.org
 pximg.net
 pythonhosted.org
 raspberrypi.org
+reservation.jp
 steemit.com
 workflowy.com
