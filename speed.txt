@@ -17,6 +17,7 @@ opendesktop.org
 openwrt.org
 oracle.com
 pixiv.org
+portswigger.net
 pximg.net
 pythonhosted.org
 raspberrypi.org
