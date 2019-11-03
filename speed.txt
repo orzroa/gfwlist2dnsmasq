@@ -7,6 +7,8 @@ charlesproxy.com
 cloudfunctions.net
 codeforces.com
 h1.ioliu.cn
+inks.tn
+inkstonenews.com
 github.com
 gnome.org
 gnome-look.org
