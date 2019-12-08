@@ -21,6 +21,7 @@ openwrt.org
 oracle.com
 pixiv.org
 portswigger.net
+pugpig.com
 pximg.net
 pythonhosted.org
 raspberrypi.org
