@@ -6,7 +6,6 @@ charlesproxy.com
 cloudfunctions.net
 codeforces.com
 dbeaver.io
-economist.sc.omtrdc.net
 h1.ioliu.cn
 inks.tn
 inkstonenews.com
@@ -15,14 +14,15 @@ gnome.org
 gnome-look.org
 jetbrains.com
 jsfiddle.net
-main-ecnpaper-economist.content.pugpig.com
 mysql.com
 nginx.org
+omtrdc.net
 opendesktop.org
 openwrt.org
 oracle.com
 pixiv.org
 portswigger.net
+pugpig.com
 pximg.net
 pythonhosted.org
 raspberrypi.org
