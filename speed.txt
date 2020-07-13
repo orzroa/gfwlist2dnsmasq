@@ -36,3 +36,4 @@ ameba.jp
 abema.io
 hayabusa.io
 tver.jp
+api.tver.jp
