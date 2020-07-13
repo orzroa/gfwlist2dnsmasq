@@ -1,4 +1,3 @@
-abema.tv
 adobe.com
 alpinelinux.org
 apache.org
@@ -31,3 +30,7 @@ raspberrypi.org
 reservation.jp
 steemit.com
 workflowy.com
+
+abema.tv
+ameba.jp
+abema.io
