@@ -35,5 +35,5 @@ abema.tv
 ameba.jp
 abema.io
 hayabusa.io
+akamaized.net
 tver.jp
-api.tver.jp
