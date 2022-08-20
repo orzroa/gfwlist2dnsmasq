@@ -3,7 +3,7 @@ A shell script which convert gfwlist into dnsmasq rules.
 
 Working on both Linux-based (Debian/Ubuntu/Cent OS/OpenWrt/LEDE/Cygwin/Bash on Windows/etc.) and BSD-based (FreeBSD/Mac OS X/etc.) system.
 
-This script needs `sed`, `base64` and `curl`. You should have these binaries on you system.
+This script needs `sed`, `base64`, `curl`(or`wget`). You should have these binaries on you system.
 
 ### Usage
 ```
@@ -33,19 +33,31 @@ Valid options are:
     -h, --help  Usage
 ```
 
-### OpenWRT / LEDE Usage
+### OpenWRT Usage
 
-For OpenWrt/LEDE, `base64` and `curl` may not be included into the system by default. So you should install them first.
+( For LEDE 17.01/ OpenWrt 18.06 and later)
 
-For security reason, this script won't bypass HTTPS certificate validation. So you should install ca-certificates. For LEDE users, you should install ca-bundle in addition.
+To download gfwlist `curl` or `wget` is needed. Because the connection is HTTPS, if you use busybox `wget`, you need to install `libustream-openssl` or `libustream-mbedtls` to support it, otherwise use GNU `wget`.
+
+Because gfwlist is encoded by BASE64, `base64` is needed to decode.
 
 ```
-# OpenWrt
+# curl
 opkg update
-opkg install coreutils-base64 curl ca-certificates
-# LEDE
+opkg install curl coreutils-base64
+# busybox wget (default by OpenWrt)
 opkg update
-opkg install coreutils-base64 curl ca-certificates ca-bundle
+opkg install libustream-mbedtls coreutils-base64
+# GNU wget
+opkg update
+opkg install wget coreutils-base64
+```
+
+For security reason, this script won't bypass HTTPS certificate validation. So you should install ca-certificates and ca-bundle in addition.
+
+```
+opkg update
+opkg install ca-certificates ca-bundle
 ```
 
 If you really want to bypass the certificate validation, use '-i' or '--insecure' option. You should know this is insecure.
