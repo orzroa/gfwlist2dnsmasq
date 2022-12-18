@@ -15,6 +15,7 @@ gnome.org
 gnome-look.org
 jetbrains.com
 jsfiddle.net
+launchpad.net
 mysql.com
 nginx.org
 omtrdc.net
