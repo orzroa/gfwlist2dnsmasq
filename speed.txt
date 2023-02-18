@@ -2,6 +2,7 @@ adobe.com
 alpinelinux.org
 apache.org
 at-elise.com
+bing.com
 bintray.com
 charlesproxy.com
 cloudfunctions.net
@@ -22,19 +23,10 @@ omtrdc.net
 opendesktop.org
 openwrt.org
 oracle.com
-pixiv.org
 portswigger.net
 pugpig.com
-pximg.net
 pythonhosted.org
 raspberrypi.org
 reservation.jp
 steemit.com
 workflowy.com
-
-abema.tv
-ameba.jp
-abema.io
-hayabusa.io
-akamaized.net
-tver.jp
