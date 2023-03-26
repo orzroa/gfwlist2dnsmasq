@@ -2,6 +2,7 @@ adobe.com
 alpinelinux.org
 apache.org
 at-elise.com
+bing.com
 bintray.com
 charlesproxy.com
 cloudfunctions.net
