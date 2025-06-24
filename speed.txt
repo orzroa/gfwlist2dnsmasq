@@ -23,6 +23,7 @@ omtrdc.net
 opendesktop.org
 openwrt.org
 oracle.com
+piascore.com
 portswigger.net
 pugpig.com
 pythonhosted.org
