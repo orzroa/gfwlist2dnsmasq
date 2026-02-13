@@ -27,6 +27,7 @@ opendesktop.org
 openwrt.org
 oracle.com
 piascore.com
+pkg.dev
 portswigger.net
 pugpig.com
 pythonhosted.org
