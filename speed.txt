@@ -5,7 +5,7 @@ at-elise.com
 bing.com
 bintray.com
 charlesproxy.com
-claud.com
+claude.com
 cloudfunctions.net
 codeforces.com
 dbeaver.io
