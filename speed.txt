@@ -1,10 +1,12 @@
 adobe.com
 alpinelinux.org
+anthropic.com
 apache.org
 at-elise.com
 bing.com
 bintray.com
 charlesproxy.com
+claude.ai
 claude.com
 cloudfunctions.net
 codeforces.com
