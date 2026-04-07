@@ -37,5 +37,6 @@ pythonhosted.org
 raspberrypi.org
 reservation.jp
 steemit.com
+stripe.com
 sublimetext.com
 workflowy.com
