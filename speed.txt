@@ -32,6 +32,7 @@ oracle.com
 piascore.com
 pkg.dev
 portswigger.net
+print-gakufu.com
 pugpig.com
 pythonhosted.org
 raspberrypi.org
