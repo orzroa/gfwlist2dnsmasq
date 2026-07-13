@@ -27,6 +27,7 @@ launchpad.net
 mysql.com
 nginx.org
 omtrdc.net
+oaistatic.com
 opendesktop.org
 openwrt.org
 oracle.com
