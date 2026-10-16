@@ -28,7 +28,6 @@ mysql.com
 nginx.org
 omtrdc.net
 oaistatic.com
-opencode.ai
 opendesktop.org
 openwrt.org
 oracle.com
